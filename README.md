@@ -10,3 +10,6 @@ To do that I use two fantastics things :
   
   So its appear there are interference between CAN and computing due to current flow between both mass points.
   This should be solved by using opto-isolate interface. This is the object of this project
+
+
+Be carefull, status of this project is "NOT TESTED"
